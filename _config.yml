@@ -1,9 +1,9 @@
 # Jekyll settings
 #
-title: ARACHNAE
+title: Ecoles 2018
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Un petit test de présentation de photographies agrémentées de quelques textes, au moyen du framework HTML5 Webslides.js
+  Un reportage sur les activités de l'AALE dans les écoles de Lichtenberg et environs, agrémenté de photographies agrémentées et d'interviews sonores.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.arboriculteurs-lichtenberg.eu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -17,7 +17,6 @@ collections:
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed
   - github-pages
 exclude:
   - Gemfile

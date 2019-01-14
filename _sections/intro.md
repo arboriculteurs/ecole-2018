@@ -1,8 +1,8 @@
 ---
-index: 2
+index: 20
 ---
         
-<section> <!-- slide 02 -->
+<section> <!--Introduction aux reportages -->
 <span class="background light" style="background-image:url('assets/images/intro.jpg')"></span>
 <!--.wrap = container (width: 90%) -->
     <div class="wrap size-50 aligncenter">

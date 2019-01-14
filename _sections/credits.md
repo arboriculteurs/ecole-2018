@@ -1,15 +1,74 @@
 ---
-index: 206
+index: 990
 type_of_section: "card"
 image_side: "right"
-title: "À suivre !"
-sub-title: "<i>Arachnea</i> n'est q'un exemple de présentation."
+title: "Remerciements"
+
 image:
   file: "assets/images/credits.jpg"
   description: "Áqaba, Jordan"
   author: "James Balmer (Unsplash)"
   author_link: "https://www.unsplash.com"
 ---
-  <p class="text-intro">Bientôt, vous pourrez découvrir les reportages concernant les activités de <b>l'Association des Arboriculteurs de Lichenberg et Environs</b> mis en forme suivant le même modèle.</p>
-  <h3 class="anime zoomIn">Rendez-vous le 15 janvier !</h3>
+  <div class="wrap">
+
+  
+     <h3>Les animateurs des actions</h3>
+     <ul class="flexblock specs">
+         <li>
+            <div>
+              <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
+                <h2>Les enseignantes</h2>
+                  Simple and secure file sharing.
+            </div>
+          </li>
+          <li>
+            <div>
+              <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
+                <h2>La classe 34 d'Ingwiller</h2>
+                  Simple and secure file sharing.
+            </div>
+          </li>
+           <li>
+            <div>
+              <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
+                <h2>Les membres de l'AALE</h2>
+                  Simple and secure file sharing.
+            </div>
+          </li>
+    </ul>
+   <h3>Crédits média</h3>
+     <ul class="flexblock specs">
+         <li>
+            <div>
+              <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
+                <h2>Photos</h2>
+                  Simple and secure file sharing.
+            </div>
+          </li>
+          <li>
+            <div>
+              <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
+                <h2>Interview</h2>
+                  Simple and secure file sharing.
+            </div>
+          </li>
+
+    </ul>            
+   <h3>Graines et bulbes</h3>
+     <ul class="flexblock specs">
+         <li>
+            <div>
+              <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
+                <h2>Graines Hubert</h2>
+                  Simple and secure file sharing.
+            </div>
+          </li>
+        
+
+    </ul>      
+  </div>
+
+
+   
       
