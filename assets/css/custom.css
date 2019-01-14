@@ -1,38 +1,52 @@
 .flexblock li h2 svg,.flexblock li h3 svg {margin-top: 0;
-      }
-      
-h1, h2 {  font-family: 'Indie Flower', cursive;}
+}
+
 h1 {
-    font-size: 4rem;
-    line-height: 5.6rem;}
+font-size: 4rem;
+font-family: 'Permanent Marker', cursive;
+line-height: 5.4rem;}
+h2 {
+font-size: 3rem;
+font-weight: 500;
+}
+
+p {
+line-height: 130%;
+}
+
+.text-data {
+font-size: 10rem;
+line-height: 110%;}
+} 
 
 .animate-show {
-    display: none !important;
-  }
-  .animate-show.animated {
-    display: inherit !important;
-  }
-  
-  .animate-show-visibility {
-    opacity: 0 !important;
-    visibility: hidden;
-  }
-  .animate-show-visibility.animated {
-    opacity: 1 !important;
-    visibility: visible;
-  }
-  
-  .animate-hide {
-    display: inherit !important;
-  }
-  .animate-hide.animated {
-    display: none !important;
-  }
-  
-  .animate-hide-visibility {
-    opacity: 1 !important;
-  }
-  .animate-hide-visibility.animated {
-    opacity: 0 !important;
-  }
-  
+display: none !important;
+}
+.animate-show.animated {
+display: inherit !important;
+}
+
+.animate-show-visibility {
+opacity: 0 !important;
+visibility: hidden;
+}
+.animate-show-visibility.animated {
+opacity: 1 !important;
+visibility: visible;
+}
+
+.animate-hide {
+display: inherit !important;
+}
+.animate-hide.animated {
+display: none !important;
+}
+
+.animate-hide-visibility {
+opacity: 1 !important;
+}
+.animate-hide-visibility.animated {
+opacity: 0 !important;
+}
+
+
