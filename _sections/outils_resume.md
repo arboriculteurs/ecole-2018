@@ -5,8 +5,8 @@ image_side: "right"
 title: "Un jardin pédagogique"
 sub-title: soutenu par l'A.A.L.E. à l'école de Lichtenberg
 image:
-  file: "assets/images/outils02.jpg"
-  description: "Construction de nichoirs"
+  file: "assets/images/outils03.jpg"
+  description: "Jardin pédagogique"
   author: "Yves Klein"
   author_link: 
 ---
