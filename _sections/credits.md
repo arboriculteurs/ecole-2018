@@ -12,56 +12,57 @@ image:
 ---
   <div class="wrap">
 
-  
-     <h3>Les animateurs des actions</h3>
      <ul class="flexblock specs">
          <li>
             <div>
               <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
                 <h2>Les enseignantes</h2>
-                  Simple and secure file sharing.
+                  du R.P.I. de Lichtenberg / Reipertswiller
             </div>
           </li>
           <li>
             <div>
               <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
-                <h2>La classe 34 d'Ingwiller</h2>
-                  Simple and secure file sharing.
+                <h2>La classe 34</h2>
+                  d'Ingwiller et Menchhoffen pour l'opération <i>nichoirs</i>
             </div>
           </li>
            <li>
             <div>
               <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
                 <h2>Les membres de l'AALE</h2>
-                  Simple and secure file sharing.
+                  pour leurs interventions et tout spécialement le comité de l'association.
             </div>
           </li>
     </ul>
-   <h3>Crédits média</h3>
+   <h3>Crédits</h3>
      <ul class="flexblock specs">
          <li>
             <div>
               <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
-                <h2>Photos</h2>
-                  Simple and secure file sharing.
+                <h2>Photos de reportage</h2>
+                  Sauf avis contraire, toutes les photos des animations sont signées <b>Yves Klein</b>, président de l'A.A.L.E.
+            </div>
+          </li>
+          <li>
+            <div>
+              <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
+                <h2>Photos d'illustration</h2>
+                  Ces images de qualité en haute définition sont fournies par le site partage de photos <b>Unsplash</b>.
             </div>
           </li>
           <li>
             <div>
               <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
                 <h2>Interview</h2>
-                  Simple and secure file sharing.
+                 Les éléments sonores sont mis à disposition par <b>EST FM</b> - interview réalisée en janvier 2018.
             </div>
           </li>
-
-    </ul>            
-   <h3>Graines et bulbes</h3>
-     <ul class="flexblock specs">
          <li>
             <div>
               <svg class="fa-wifi" viewBox="0 0 512 512"></svg>
-                <h2>Graines Hubert</h2>
-                  Simple and secure file sharing.
+                <h2>Graines et bulbes</h2>
+                  Pour le verger-école et le jardin scolaire, <b>Graines Hubert</b> a mis a disposition bulbes et semences.
             </div>
           </li>
         

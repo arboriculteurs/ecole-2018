@@ -2,14 +2,19 @@
 index: 420
 type_of_section: "card"
 image_side: "right"
-title: Jardin pédagogique - résumé"
-sub-title: "Au jardin pédagogique"
+title: Le verger-école
+sub-title: "pour des activités pédagogiques de terrain"
 image:
   file: "assets/images/jardin02.jpg"
-  description: "Construction de nichoirs"
+  description: "Le verger-école"
   author: A.A.L.E.
   author_link: 
 ---
-  <p class="text-intro">Bientôt, vous pourrez découvrir les reportages concernant les activités de <b>l'Association des Arboriculteurs de Lichenberg et Environs</b> mis en forme suivant le même modèle.</p>
-  <h3 class="anime zoomIn">Rendez-vous le 15 janvier !</h3>
-      
+### Une réalisation soutenue par les institutions ###   
+
+La réalisation du verger-école de Lichtenberg est largement soutenue par la Communauté de Communes, de la Région Grand Est, de l’Agence de l’eau Rhin Meuse et du Ministère de la Transition écologique et solidaire.  
+La plantation des arbres fruitiers a été financée par la Communauté des Communes de Hanau - La Petite Pierre dans le cadre de la replantation d’arbres fruitiers en zone proche de village, ce projet faisant partie du cadre de l’Appel à Manifestation d’Intérêts *Trames Vertes et Bleues*.
+### 32 arbres et 1500 bulbes ###   
+Il est planté de 32 arbres fruitiers : les élèves ont mis la main à la pâte pour cette plantation. Le fleurissement est assuré par des massifs de fleurs à bulbes disposés au pied de chacun des fruitiers. Notre partenaire **Graines Hubert** a offert pour ce faire 1500 bulbes qui ont été récemment mis en terre.
+
+Un rucher et un grand hôtel à insectes complètent l'installation et permettent de nombreuses observation et manipulations.
